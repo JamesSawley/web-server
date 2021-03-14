@@ -1,5 +1,5 @@
 # Web server
-A very basic express server for serving json on the tinterweb
+Very simple express server for serving json on the tinterweb
 
 ## Get going
 1. `npm install`
