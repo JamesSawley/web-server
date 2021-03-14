@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "lt --port 3000"
+    "start": "node index.js",
+    "serve": "lt --port 3000"
   },
   "author": "",
   "license": "ISC",
